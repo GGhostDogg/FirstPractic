@@ -336,3 +336,37 @@ h2.tittle{
     text-align: center;
     color: #299cbd;
 }
+
+.webinar_invite {
+
+    font-family: Roboto;
+    font-size: 11.5px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.87;
+    letter-spacing: normal;
+    text-align: center;
+    color: #4a4a4a;
+}
+
+.ground {
+    min-height: 83px;
+    margin: 32px 0 0;
+    padding: 30.5px 385.5px 34.5px 386px;
+    background-color: #1a1a1a;
+}
+
+.contacts {
+    width: 188px;
+    height: 18px;
+    font-family: Roboto;
+    font-size: 7.5px;
+    font-weight: 300px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: normal;
+    text-align: center;
+    color: #888;
+}
